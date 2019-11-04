@@ -1,7 +1,7 @@
 <?php
-    $ime_prezime = ("Hasan Muratspahić");
-    $mjesto_rodjenja = ("Livno");
+    $ime_prezime = ("Niko Nikić");
+    $mjesto_rodjenja = ("Belgrad");
     $kanton = ("Kanton 10");
-    $drzava = ("Bosna i HErcegovina");
-    echo ("ime_prezime");
+    $drzava = ("Rusija");
+    echo $ime_prezime . (" "). $drzava;
 ?>
