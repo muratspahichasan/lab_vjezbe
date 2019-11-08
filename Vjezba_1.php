@@ -3,5 +3,5 @@
     $mjesto_rodjenja = ("Belgrad");
     $kanton = ("Kanton 10");
     $drzava = ("Rusija");
-    echo $ime_prezime . (" "). $drzava;
+    echo $ime_prezime . + . $drzava;
 ?>
